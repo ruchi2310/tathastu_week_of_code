@@ -1,0 +1,34 @@
+# tathastu_week_of_code
+mport math
+class python:
+    @staticmethod
+    def round(a):
+       return round(a+0.5)
+    @staticmethod
+    def floor(a):
+        return math.floor(a)
+    @staticmethod
+    def ceil(a):
+        return math.ceil(0,5)
+class math:
+    @staticmethod
+    def sin(a):
+       return math.sin(a)
+    @staticmethod
+    def pow(a,b):
+        return((a)**(b))
+    @staticmethod
+    def cos(a):
+       return math.cos(a)
+    @staticmethod
+    def tan(a):
+      return math.tan(a)
+    @staticmethod
+    def asin(a):
+       return math.asin(a)
+    @staticmethod
+    def acos(a):
+       return math.acos(a)
+    @staticmethod
+    def atan(a):
+       return math.atan(a)
